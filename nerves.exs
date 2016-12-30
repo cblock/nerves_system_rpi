@@ -12,7 +12,7 @@ config pkg, :nerves_env,
   version: version,
   compiler: :nerves_package,
   artifact_url: [
-    "https://github.com/cblock/nerves_system_rpi/releases/download/v0.1.0_RTL8188EU/nerves_system_rpi.tar.gz",
+    "https://github.com/cblock/nerves_system_rpi/releases/download/v0.2.0_RTL8188EU/nerves_system_rpi.tar.gz",
   ],
   platform: Nerves.System.BR,
   platform_config: [
